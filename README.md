@@ -33,7 +33,7 @@ Developed by: RK JAYA KRISNAA
 Registeration Number : 212223223002
 */
 ```
-```
+```java
 package com.example.animations;
 
 import androidx.appcompat.app.AppCompatActivity;
